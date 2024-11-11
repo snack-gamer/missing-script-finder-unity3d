@@ -1,5 +1,7 @@
 # missing-script-finder-unity3d
 
+![Missing Scripts Finder](https://github.com/user-attachments/assets/3dcb1b35-979b-4f11-b8e8-b9837b8a1a90)
+
 As your unity3d project grows big. You add, remove, change classes frquently.
 Sometimes this results in dead residuals on your game objects along side other components.
 
@@ -14,5 +16,3 @@ HOW TO USE:
 Create a folder named "Editor" anwyere in your assets. Place MissingScriptFinder class there. 
 Go to tools menu and select "Missing Script Finder"
 
-
-![Missing Scripts Finder](https://github.com/user-attachments/assets/3dcb1b35-979b-4f11-b8e8-b9837b8a1a90)
